@@ -1,0 +1,5 @@
+{
+  "name": "emberholt-tavern-theme",
+  "owner": { "name": "seratur" },
+  "plugins": [{ "name": "tavern", "source": "./" }]
+}
